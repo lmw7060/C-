@@ -8,7 +8,7 @@
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Introduce </h2> <br> 
     <div style="margin: 0 auto; text-align: center;" align= "center"> 
-        STM32를 활용한 마이크로소프트의 기초를 배운 레포지토리입니다.
+        C#의 기초를 배운 레포지토리입니다.
           </div>
     </div>
     <div align= "center"> 
